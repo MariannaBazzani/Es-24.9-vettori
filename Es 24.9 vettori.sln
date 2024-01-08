@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Es 24.9 vettori", "Es 24.9 vettori\Es 24.9 vettori.csproj", "{CFC3F71D-10C3-4E1A-B379-E064E74F06BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFC3F71D-10C3-4E1A-B379-E064E74F06BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFC3F71D-10C3-4E1A-B379-E064E74F06BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFC3F71D-10C3-4E1A-B379-E064E74F06BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFC3F71D-10C3-4E1A-B379-E064E74F06BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A5B06F0B-91F1-4C7B-8199-405B55301E56}
+	EndGlobalSection
+EndGlobal
